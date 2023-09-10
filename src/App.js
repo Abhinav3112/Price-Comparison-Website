@@ -8,13 +8,13 @@ import MainPage from "./components/MainPage";
 import { useState } from 'react';
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_KEY,
-  authDomain: "shopping-3f25f.firebaseapp.com",
-  projectId: "shopping-3f25f",
-  storageBucket: "shopping-3f25f.appspot.com",
-  messagingSenderId: "875392086199",
-  appId: "1:875392086199:web:0a5c3b55264d40cde8dd32",
-  measurementId: "G-DLMHQ08HGW"
+  apiKey: "AIzaSyAMjvp4VkIgM8QvOOqglMMvT2vxoLfNyRg",
+  authDomain: "price-comparison-webite.firebaseapp.com",
+  projectId: "price-comparison-webite",
+  storageBucket: "price-comparison-webite.appspot.com",
+  messagingSenderId: "898308359875",
+  appId: "1:898308359875:web:acfad366913bfcc2d88476",
+  measurementId: "G-BVP4FKB6EP"
 };
 
 // Initialize Firebase
