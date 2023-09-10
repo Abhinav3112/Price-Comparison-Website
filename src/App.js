@@ -8,13 +8,14 @@ import MainPage from "./components/MainPage";
 import { useState } from 'react';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAMjvp4VkIgM8QvOOqglMMvT2vxoLfNyRg",
-  authDomain: "price-comparison-webite.firebaseapp.com",
-  projectId: "price-comparison-webite",
-  storageBucket: "price-comparison-webite.appspot.com",
-  messagingSenderId: "898308359875",
-  appId: "1:898308359875:web:acfad366913bfcc2d88476",
-  measurementId: "G-BVP4FKB6EP"
+  apiKey: "AIzaSyBmkypFkH6xD7TmaXkn6yYrBcKFqHK7beE",
+  authDomain: "price-x-6b005.firebaseapp.com",
+  databaseURL: "https://price-x-6b005-default-rtdb.firebaseio.com",
+  projectId: "price-x-6b005",
+  storageBucket: "price-x-6b005.appspot.com",
+  messagingSenderId: "454068841273",
+  appId: "1:454068841273:web:a491c1661d7b4ccad796e8",
+  measurementId: "G-XVZFFRZ9JH"
 };
 
 // Initialize Firebase
